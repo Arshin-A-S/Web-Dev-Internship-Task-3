@@ -1,4 +1,4 @@
-Task 3: Responsive Layout Implementation 
+Task 3: Responsive Layout Implementation: 
 This section of the project focuses on transforming a static HTML profile into a fluid, responsive layout using CSS Flexbox. The implementation ensures that the user interface adapts seamlessly to various screen dimensions, from mobile devices to desktop monitors.
 
 Technical Objectives: 
